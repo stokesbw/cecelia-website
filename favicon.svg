@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Elegant monogram "CA" for Cecelia Alfonso-Stokes -->
+  <rect width="32" height="32" rx="3" fill="#4d6b58"/>
+  <text
+    x="16"
+    y="23"
+    font-family="Georgia, serif"
+    font-size="16"
+    font-style="italic"
+    font-weight="400"
+    fill="#f9f6f0"
+    text-anchor="middle"
+    dominant-baseline="auto"
+    letter-spacing="-0.5"
+  >CA</text>
+</svg>
